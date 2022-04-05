@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfinancial_landscape=self.webpackChunkfinancial_landscape||[]).push([[3208],{19943:function(s){s.exports=JSON.parse('{"allTagsPath":"/landscape/en/news/tags","slug":"/landscape/en/news/tags/supervision","name":"supervision","count":1,"permalink":"/landscape/en/news/tags/supervision"}')}}]);
