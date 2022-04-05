@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Financial Landscape Blog</title>
-        <link>https://botx.github.io/landscape/news</link>
+        <link>https://botx.github.io/dev_fl/news</link>
         <description>Financial Landscape Blog</description>
         <lastBuildDate>Fri, 25 Mar 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[แถลงข่าวสรุปผลการรับฟังความคิดเห็น]]></title>
-            <link>https://botx.github.io/landscape/news/2022/03/25/feedback-summary</link>
+            <link>https://botx.github.io/dev_fl/news/2022/03/25/feedback-summary</link>
             <guid>/2022/03/25/feedback-summary</guid>
             <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[ธปท. สรุปความคิดเห็นที่ได้จากการเปิดรับฟังต่อแนวนโยบายภูมิทัศน์ใหม่ภาคการเงินไทยเพื่อเศรษฐกิจดิจิทัลและการเติบโตอย่างยั่งยืน]]></description>
@@ -20,7 +20,7 @@
         </item>
         <item>
             <title><![CDATA[แถลงข่าวแนวทางการกำกับดูแลกลุ่มธุรกิจทางการเงินของธนาคารพาณิชย์ที่ทำธุรกิจเกี่ยวกับดิจิทัล]]></title>
-            <link>https://botx.github.io/landscape/news/2022/03/23/digital-supervision</link>
+            <link>https://botx.github.io/dev_fl/news/2022/03/23/digital-supervision</link>
             <guid>/2022/03/23/digital-supervision</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[ธปท. ปรับแนวทางดูแลกลุ่ม ธพ. ส่งเสริมการพัฒนาบริการผ่านเทคโนโลยี ยกระดับธุรกิจสินทรัพย์ดิจิทัล ยกเลิกข้อจำกัดการลงทุนในธุรกิจ FinTech]]></description>
@@ -31,7 +31,7 @@
         </item>
         <item>
             <title><![CDATA[งานเสวนา BOT Financial Landscape Consultation Session: เปิดมุมมองภูมิทัศน์ใหม่ภาคการเงินไทย]]></title>
-            <link>https://botx.github.io/landscape/news/2022/02/24/consultation-session</link>
+            <link>https://botx.github.io/dev_fl/news/2022/02/24/consultation-session</link>
             <guid>/2022/02/24/consultation-session</guid>
             <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[ห้องภัทรรวมใจ อาคาร 2 ชั้น 2 ธนาคารแห่งประเทศไทย]]></description>
@@ -39,7 +39,7 @@
         </item>
         <item>
             <title><![CDATA[ชมงานแถลงข่าวย้อนหลัง]]></title>
-            <link>https://botx.github.io/landscape/news/2022/02/02/recordings</link>
+            <link>https://botx.github.io/dev_fl/news/2022/02/02/recordings</link>
             <guid>/2022/02/02/recordings</guid>
             <pubDate>Wed, 02 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[รับชมงานแถลงข่าวเปิดรับฟังแนวนโยบาย ภูมิทัศน์ใหม่ภาคการเงินไทยเพื่อเศรษฐกิจดิจิทัลและการเติบโตอย่างยั่งยืน ที่จัดขึ้นเมื่อวันที่ 1 กุมภาพันธ์ 2565 ทั้งช่วงเปิดงาน และช่วงเสวนา]]></description>
@@ -47,7 +47,7 @@
         </item>
         <item>
             <title><![CDATA[แถลงข่าวการเปิดรับฟังความคิดเห็น]]></title>
-            <link>https://botx.github.io/landscape/news/2022/02/01/press</link>
+            <link>https://botx.github.io/dev_fl/news/2022/02/01/press</link>
             <guid>/2022/02/01/press</guid>
             <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[ธปท. เปิดรับฟังความคิดเห็นต่อแนวนโยบายภูมิทัศน์ใหม่ภาคการเงินไทยเพื่อเศรษฐกิจดิจิทัลและการเติบโตอย่างยั่งยืน]]></description>
@@ -58,7 +58,7 @@
         </item>
         <item>
             <title><![CDATA[คำถาม-คำตอบ]]></title>
-            <link>https://botx.github.io/landscape/news/2022/02/01/qa</link>
+            <link>https://botx.github.io/dev_fl/news/2022/02/01/qa</link>
             <guid>/2022/02/01/qa</guid>
             <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[รวบรวมคำถาม-คำตอบเกี่ยวกับเอกสารรับฟังความคิดเห็น]]></description>
@@ -67,7 +67,7 @@
         </item>
         <item>
             <title><![CDATA[22 คำตอบที่จะทำให้คุณเข้าใจอนาคตเศรษฐกิจการเงินไทย]]></title>
-            <link>https://botx.github.io/landscape/news/2022/02/01/summary</link>
+            <link>https://botx.github.io/dev_fl/news/2022/02/01/summary</link>
             <guid>/2022/02/01/summary</guid>
             <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[สรุปจากรายงาน “ภูมิทัศน์ใหม่ภาคการเงินไทยเพื่อเศรษฐกิจดิจิทัลและการเติบโตอย่างยั่งยืน”]]></description>

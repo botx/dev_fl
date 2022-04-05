@@ -4,8 +4,8 @@
   <ShortName>Financial Landscape</ShortName>
   <Description>Search Financial Landscape</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://botx.github.io/landscape/en/img/logo.png</Image>
-  <Url type="text/html" method="get" template="https://botx.github.io/landscape/en/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://botx.github.io/landscape/en/opensearch.xml" />
-  <moz:SearchForm>https://botx.github.io/landscape/en/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://botx.github.io/dev_fl/en/img/logo.png</Image>
+  <Url type="text/html" method="get" template="https://botx.github.io/dev_fl/en/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://botx.github.io/dev_fl/en/opensearch.xml" />
+  <moz:SearchForm>https://botx.github.io/dev_fl/en/</moz:SearchForm>
 </OpenSearchDescription>
