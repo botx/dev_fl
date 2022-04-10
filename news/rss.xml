@@ -4,9 +4,16 @@
         <title>Financial Landscape Blog</title>
         <link>https://botx.github.io/dev_fl/news</link>
         <description>Financial Landscape Blog</description>
-        <lastBuildDate>Fri, 25 Mar 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[แบงก์ชาติชวนคุย: ก้าวต่อไปของภาคการเงินไทย]]></title>
+            <link>https://botx.github.io/dev_fl/news/2022/04/07/bot-talk</link>
+            <guid>/2022/04/07/bot-talk</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/H9OjjAUlL4Y" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[แถลงข่าวสรุปผลการรับฟังความคิดเห็น]]></title>
             <link>https://botx.github.io/dev_fl/news/2022/03/25/feedback-summary</link>

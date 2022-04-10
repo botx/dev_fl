@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://botx.github.io/dev_fl/news</id>
     <title>Financial Landscape Blog</title>
-    <updated>2022-03-25T00:00:00.000Z</updated>
+    <updated>2022-04-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://botx.github.io/dev_fl/news"/>
     <subtitle>Financial Landscape Blog</subtitle>
     <icon>https://botx.github.io/dev_fl/img/logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[แบงก์ชาติชวนคุย: ก้าวต่อไปของภาคการเงินไทย]]></title>
+        <id>/2022/04/07/bot-talk</id>
+        <link href="https://botx.github.io/dev_fl/news/2022/04/07/bot-talk"/>
+        <updated>2022-04-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/H9OjjAUlL4Y" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[แถลงข่าวสรุปผลการรับฟังความคิดเห็น]]></title>
         <id>/2022/03/25/feedback-summary</id>
