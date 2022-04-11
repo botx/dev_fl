@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfinancial_landscape=self.webpackChunkfinancial_landscape||[]).push([[4909],{14304:function(n){n.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-docs","id":"digital-supervision"}}')}}]);
