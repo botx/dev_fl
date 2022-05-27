@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfinancial_landscape=self.webpackChunkfinancial_landscape||[]).push([[228],{74147:function(a){a.exports=JSON.parse('{"label":"hearing","permalink":"/dev_fl/en/news/tags/hearing","allTagsPath":"/dev_fl/en/news/tags","count":1}')}}]);
