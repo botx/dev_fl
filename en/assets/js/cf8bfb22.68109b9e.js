@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfinancial_landscape=self.webpackChunkfinancial_landscape||[]).push([[8960],{15735:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"green"}')}}]);
