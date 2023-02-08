@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfinancial_landscape=self.webpackChunkfinancial_landscape||[]).push([[2074],{53753:a=>{a.exports=JSON.parse('{"label":"news","permalink":"/dev_fl/news/tags/news","allTagsPath":"/dev_fl/news/tags","count":13}')}}]);
