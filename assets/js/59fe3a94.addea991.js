@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfinancial_landscape=self.webpackChunkfinancial_landscape||[]).push([[9355],{10046:a=>{a.exports=JSON.parse('{"label":"virtual-bank","permalink":"/landscape/news/tags/virtual-bank","allTagsPath":"/landscape/news/tags","count":1}')}}]);

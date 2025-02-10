@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfinancial_landscape=self.webpackChunkfinancial_landscape||[]).push([[2491],{23327:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"household-debt"}')}}]);
