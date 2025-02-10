@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfinancial_landscape=self.webpackChunkfinancial_landscape||[]).push([[9493],{61856:e=>{e.exports=JSON.parse('{"permalink":"/landscape/en/news/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":18,"previousPage":"/landscape/en/news","blogDescription":"Follow latest news on BOT Financial Landscape","blogTitle":"News"}')}}]);
