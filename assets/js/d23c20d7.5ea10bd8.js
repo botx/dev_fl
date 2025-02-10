@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfinancial_landscape=self.webpackChunkfinancial_landscape||[]).push([[8488],{35008:e=>{e.exports=JSON.parse('{"label":"household-debt","permalink":"/def_fl/news/tags/household-debt","allTagsPath":"/def_fl/news/tags","count":1}')}}]);
